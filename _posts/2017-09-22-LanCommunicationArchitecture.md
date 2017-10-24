@@ -6,21 +6,6 @@ author: SeokHo Song
 ---
 
 
----
-layout: post
-title:  Electron&NodeJS for Batu Control Panel
-date:   2017-10-11 21:12:20		
-categories: development
-tags:
-- 소프트웨어 마에스트로
-- 소마 프로젝트
-- Batu
-- Virtualization
-- 가상화
----
-
-
-
 
 유저레벨에서 가상화 기술을 손쉽고 가볍게 사용 할 수있게 해줄 Batu 프로젝트에서 각각의 VM을 설정하거나, Local Area Network (LAN) 에서 각각의 Batu를 설정 할 수 있게 해줄 Control Panel을 개발하게 되었다.
 
